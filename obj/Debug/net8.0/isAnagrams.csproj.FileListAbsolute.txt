@@ -1,0 +1,15 @@
+C:\Users\akemboi\source\repos\isAnagrams\obj\Debug\net8.0\isAnagrams.csproj.AssemblyReference.cache
+C:\Users\akemboi\source\repos\isAnagrams\obj\Debug\net8.0\isAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akemboi\source\repos\isAnagrams\obj\Debug\net8.0\isAnagrams.AssemblyInfoInputs.cache
+C:\Users\akemboi\source\repos\isAnagrams\obj\Debug\net8.0\isAnagrams.AssemblyInfo.cs
+C:\Users\akemboi\source\repos\isAnagrams\obj\Debug\net8.0\isAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\akemboi\source\repos\isAnagrams\bin\Debug\net8.0\isAnagrams.exe
+C:\Users\akemboi\source\repos\isAnagrams\bin\Debug\net8.0\isAnagrams.deps.json
+C:\Users\akemboi\source\repos\isAnagrams\bin\Debug\net8.0\isAnagrams.runtimeconfig.json
+C:\Users\akemboi\source\repos\isAnagrams\bin\Debug\net8.0\isAnagrams.dll
+C:\Users\akemboi\source\repos\isAnagrams\bin\Debug\net8.0\isAnagrams.pdb
+C:\Users\akemboi\source\repos\isAnagrams\obj\Debug\net8.0\isAnagrams.dll
+C:\Users\akemboi\source\repos\isAnagrams\obj\Debug\net8.0\refint\isAnagrams.dll
+C:\Users\akemboi\source\repos\isAnagrams\obj\Debug\net8.0\isAnagrams.pdb
+C:\Users\akemboi\source\repos\isAnagrams\obj\Debug\net8.0\isAnagrams.genruntimeconfig.cache
+C:\Users\akemboi\source\repos\isAnagrams\obj\Debug\net8.0\ref\isAnagrams.dll
